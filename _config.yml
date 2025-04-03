@@ -28,7 +28,7 @@ author:
   bio              : "CPU/GPU Architecture and Simulation"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  url              : https://lchangxii.github.io/ # URL
+  uri              : https://lchangxii.github.io/ # URL
   email            : "" 
 
   # Academic websites
