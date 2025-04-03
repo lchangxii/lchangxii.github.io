@@ -1,10 +1,11 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "CS3210 Parallel Computing"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "National University of Singapore, School of Computing"
+datestart: Aug. 2024
+dateend: Nov. 2024
 location: "City, Country"
 ---
 
