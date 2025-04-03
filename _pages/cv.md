@@ -47,8 +47,10 @@ Publications
     {% assign index = forloop.index%}
     {% include archive-single.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
+  <ul>*Authors with equal contribution.</ul>
+
+
+<!-- -- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
