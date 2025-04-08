@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
+I am a PhD student at the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
 
-Before joining NUS, I earned my bachelor's and master's degrees from the Computer College of Beihang University (BUAA), focusing on high-performance computing and compiler technology advised by [Dr. Hailong Yang](https://thomas-yang.github.io/).  
+Before joining NUS, I earned my bachelor's and master's degrees from the School of Computer Science and Engineering, Beihang University (BUAA), focusing on high-performance computing and compiler technology advised by [Dr. Hailong Yang](https://thomas-yang.github.io/).  
 
 I have also closely collaborated with [Dr. Yifan Sun](https://sarchlab.org/syifan) from William & Mary on GPU architecture and simulation, as well as [Dr. Xu Liu](https://xl10.github.io/) from North Carolina State University on high-performance computing.  
 
