@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in National University of Singapore, Aug. 2021 - Current
+* Ph.D in National University of Singapore, Aug. 2021 - Sep. 2025
 * M.S. in Beihang University, Sep. 2017 - Jan. 2020
 * B.S. in Beihang University, Sep. 2013 - Jun. 2017
 
