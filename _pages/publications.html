@@ -16,7 +16,8 @@ author_profile: true
 {% for category in site.publication_category %}
 {% assign index = 1 %}
 {% assign title_shown = false %}
-{% for post in site.publications %}
+{% assign reversed_pubs = site.publications | reverse %}
+{% for post in reversed_pubs %}
 {% if post.category != category[0] %}
 {% continue %}
 {% endif %}
