@@ -43,7 +43,8 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  {% assign reversed_pubs = site.publications | reverse %}
+  <ul>{% for post in reversed_pubs %}
     {% assign index = forloop.index%}
     {% include archive-single.html %}
   {% endfor %}</ul>
