@@ -17,8 +17,10 @@ Education
 
 Work experience
 ======
-* Reserch Fellow (To start)
+* Reserch Fellow, (To start)
   * National University of Singapore
+* Senior Software Engineer, Mar. 2020 - Aug. 2020
+  * Huawei
 
   
 <!-- Skills
@@ -45,8 +47,11 @@ Award
 * Research Achievement Award, National University of Singapore (2023)
 * Excellent Graduate, Beihang University (2020)
 * National Scholarship, China (2018)
-* [Annual ISC-HPCAC Student Cluster Competition (ISC 2017): Bronze Prize](https://www.hpcadvisorycouncil.com/events/2017/isc17-student-cluster-competition/)
-* [Asia Student Supercomputer Challenge (ASC 2017): Silver Prize](https://www.hpcwire.com/2017/05/01/asc17-tsinghua-team-crowned-champion-beihang-runner/) as the team leader
+* Annual ISC-HPCAC Student Cluster Competition (ISC 2017): Bronze Prize
+* Asia Student Supercomputer Challenge (ASC 2017): Silver Prize (team leader)
+
+<!--* [Annual ISC-HPCAC Student Cluster Competition (ISC 2017): Bronze Prize](https://www.hpcadvisorycouncil.com/events/2017/isc17-student-cluster-competition/)
+* [Asia Student Supercomputer Challenge (ASC 2017): Silver Prize](https://www.hpcwire.com/2017/05/01/asc17-tsinghua-team-crowned-champion-beihang-runner/) as the team leader-->
 
 <!-- -- Talks
 ======
