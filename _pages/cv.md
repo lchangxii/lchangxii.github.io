@@ -39,6 +39,14 @@ Publications
   {% endfor %}</ul>
   <ul>*Authors with equal contribution.</ul>
 
+Award
+======
+* Travel Grant (ISCA 2025, MICRO 2023, ISCA 2022)
+* Research Achievement Award, National University of Singapore (2023)
+* Excellent Graduate, Beihang University (2020)
+* National Scholarship, China (2018)
+* [Annual ISC-HPCAC Student Cluster Competition (ISC 2017): Bronze Prize](https://www.hpcadvisorycouncil.com/events/2017/isc17-student-cluster-competition/)
+* [Asia Student Supercomputer Challenge (ASC 2017): Silver Prize](https://www.hpcwire.com/2017/05/01/asc17-tsinghua-team-crowned-champion-beihang-runner/) as the team leader
 
 <!-- -- Talks
 ======
