@@ -15,12 +15,11 @@ Education
 * M.S. in Beihang University, Sep. 2017 - Jan. 2020
 * B.S. in Beihang University, Sep. 2013 - Jun. 2017
 
-<!-- Work experience
+<!-- Acadamic Work experience
 ======
 * Reserch Fellow, (To start)
-  * National University of Singapore
-* Senior Software Engineer, Mar. 2020 - Aug. 2020
-  * Huawei -->
+  * National University of Singapore -->
+
 
   
 <!-- Skills
