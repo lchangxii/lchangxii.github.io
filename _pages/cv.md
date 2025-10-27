@@ -15,22 +15,11 @@ Education
 * M.S. in Beihang University, Sep. 2017 - Jan. 2020
 * B.S. in Beihang University, Sep. 2013 - Jun. 2017
 
-<!-- Work experience
+Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Reserch Fellow (To start)
+  * National University of Singapore
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
   
 <!-- Skills
 ======
@@ -62,7 +51,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
-  
+
+
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

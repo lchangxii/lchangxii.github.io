@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 1"
 collection: teaching
 type: "CS3210 Parallel Computing"
 permalink: /teaching/2015-spring-teaching-1
