@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be a reserch fellow in National University of Singapore. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
+I am a reserch fellow in National University of Singapore. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
 
 Before joining NUS, I earned my bachelor's and master's degrees from the School of Computer Science and Engineering, Beihang University (BUAA), focusing on high-performance computing and compiler technology advised by [Dr. Hailong Yang](https://thomas-yang.github.io/).  
 
