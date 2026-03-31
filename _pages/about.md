@@ -9,7 +9,7 @@ redirect_from:
 
 **Incoming Assistant Professor at HKUST (Guangzhou) from June 2026. Recruiting new PhD students for my incoming lab. If you are interested, please contact me.**
 
-I am a research fellow at the National University of Singapore and will join HKUST (Guangzhou) as an Assistant Professor in June 2026. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
+I am a research fellow at the National University of Singapore and will join the Microelectronics Thrust at HKUST (Guangzhou) as an Assistant Professor in June 2026. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
 
 Before joining NUS, I earned my bachelor's and master's degrees from the School of Computer Science and Engineering, Beihang University (BUAA), focusing on high-performance computing and compiler technology advised by [Dr. Hailong Yang](https://thomas-yang.github.io/).  
 
