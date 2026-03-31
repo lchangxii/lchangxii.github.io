@@ -69,11 +69,13 @@ Service
 ======
 
 ### Program Committee
+- **IEEE/ACM International Symposium on Microarchitecture (MICRO)** — 2026  
 - **International Symposium on Computer Architecture (ISCA)** — 2026  
 - [**3rd Workshop on Computer Architecture Modeling and Simulation (CAMS)**](https://sarchlab.org/cams25) — 2025  
 - [**2nd Workshop on Computer Architecture Modeling and Simulation (CAMS)**](https://sarchlab.org/cams24) — 2024  
 
 ### Journal Reviewer
+- *ACM Transactions on Architecture and Code Optimization (TACO)* — 2026  
 - *The Journal of Supercomputing* — 2025
 
 <!-- Service and leadership

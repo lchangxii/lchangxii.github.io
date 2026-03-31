@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a reserch fellow in National University of Singapore. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
+**Incoming Assistant Professor at HKUST (Guangzhou) from June 2026. Recruiting new PhD students for my incoming lab. If you are interested, please contact me.**
+
+I am a research fellow at the National University of Singapore and will join HKUST (Guangzhou) as an Assistant Professor in June 2026. I obtained my PhD degree from the School of Computing, National University of Singapore (NUS), where I research CPU/GPU architecture and simulation advised by [Dr. Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/).  
 
 Before joining NUS, I earned my bachelor's and master's degrees from the School of Computer Science and Engineering, Beihang University (BUAA), focusing on high-performance computing and compiler technology advised by [Dr. Hailong Yang](https://thomas-yang.github.io/).  
 
 I have also closely collaborated with [Dr. Yifan Sun](https://sarchlab.org/syifan) from William & Mary on GPU architecture and simulation, as well as [Dr. Xu Liu](https://xl10.github.io/) from North Carolina State University on high-performance computing.
 
 My works have been integrated into several widely used simulation projects. For example, [PacSim](https://doi.org/10.1145/3680548) has been merged into [Sniper](https://github.com/snipersim/snipersim), a well-known multi-core CPU simulator, and [Photon](https://doi.org/10.1145/3613424.3623773) has been incorporated into [MGPUSim](https://github.com/sarchlab/mgpusim), a high performance GPU simulator that supports for multi-GPU simulation.
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
