@@ -22,12 +22,12 @@ repository               : "lchangxii/lchangxii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myprofile.png"
+  avatar           : "photo.jpg"
   name             : "Liu Changxi"
   pronouns         : # example: "she/her"  
   bio              : "CPU/GPU Architecture and Simulation"
   location         : "Singapore"
-  employer         : "National University of Singapore (incoming AP, HKUST Guangzhou June 2026)"
+  employer         : "National University of Singapore"
   uri              : https://lchangxii.github.io/ # URL
   email            : "changxi.liu@nus.edu.sg" 
 
