@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Incoming Assistant Professor at HKUST (Guangzhou) from June 2026. Recruiting new PhD students for my incoming lab. If you are interested, contact me. **
+**Incoming Assistant Professor at HKUST (Guangzhou) from June 2026. Recruiting new PhD students for my incoming lab. If you are interested, contact me.**
 
 **More details about the requirment of the program. Please [see here](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application).**
 
