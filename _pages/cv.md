@@ -33,8 +33,8 @@ Acadamic Work experience
 
 Publications
 ======
-  {% assign reversed_pubs = site.publications | reverse %}
-  <ul>{% for post in reversed_pubs %}
+  {% assign pubs_desc = site.publications | sort_natural: "path" | reverse %}
+  <ul>{% for post in pubs_desc %}
     {% assign index = forloop.index%}
     {% include archive-single.html %}
   {% endfor %}</ul>

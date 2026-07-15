@@ -19,7 +19,6 @@ My current research interests include:
 - Compiler and microarchitecture co-design
 
 **I am recruiting PhD students for my lab. If you are interested, please contact me.**
-
 **For more details about the program requirements, please [see here](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application).**
 
 I have also collaborated closely with [Dr. Yifan Sun](https://sarchlab.org/syifan) at William & Mary on GPU architecture and simulation, as well as with [Dr. Xu Liu](https://xl10.github.io/) at North Carolina State University on high-performance computing.
