@@ -17,7 +17,7 @@ Education
 
 Acadamic Work experience
 ======
-* Reserch Fellow, Nov. 2025 - Present
+* Reserch Fellow, Nov. 2025 - May. 2026
   * National University of Singapore 
 
 
