@@ -37,8 +37,18 @@
     {% if post.collection == 'teaching' %}
     <p> {{ post.type }}, <i>{{ post.venue }}</i> {{post.datestart}}-{{post.dateend}}.</p>
     {% elsif post.collection == 'publications' %}
-    {% assign highlighted_author = post.author | replace: "Liu Changxi", "<b>Liu Changxi</b>" | replace: "Changxi Liu", "<b>Liu Changxi</b>" %}
+    {% assign highlighted_author = post.author | replace: "Liu Changxi", "<b>Liu Changxi</b>" | replace: "Changxi Liu", "<b>Changxi Liu</b>" %}
     <p>[{{index}}]. {{highlighted_author}} {{post.title}} in <i>{{ post.venue }}</i>.
+      {% if post.topics %}
+      <br />
+      <small class="pub-topics">
+        <strong>Topics:</strong>
+        {% for topic in post.topics %}
+        {% assign topic_slug = topic | downcase | replace: " ", "-" | replace: "/", "-" | replace: "_", "-" %}
+        <span class="pub-topic pub-topic--{{ topic_slug }}">{{ topic }}</span>
+        {% endfor %}
+      </small>
+      {% endif %}
     </p>
     {% elsif post.date %}
     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{

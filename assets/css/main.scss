@@ -41,3 +41,63 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.pub-topics {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.pub-topic {
+  display: inline-block;
+  padding: 0.08rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  line-height: 1.25;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border: 1px solid transparent;
+}
+
+.pub-topic--security {
+  background: #fff1f1;
+  border-color: #f7bcbc;
+  color: #a32626;
+}
+
+.pub-topic--simulation {
+  background: #eef7ff;
+  border-color: #bfdcff;
+  color: #1d5d9b;
+}
+
+.pub-topic--hpc {
+  background: #f4f0ff;
+  border-color: #d8ccff;
+  color: #4b2f8a;
+}
+
+.pub-topic--gpu {
+  background: #edf9f0;
+  border-color: #b9e8c2;
+  color: #237a3c;
+}
+
+.pub-topic--cpu {
+  background: #fff7e8;
+  border-color: #ffe0a8;
+  color: #8a5a00;
+}
+
+.pub-topic--ai {
+  background: #e9fbff;
+  border-color: #bdefff;
+  color: #0b6d85;
+}
+
+.pub-topic--compiler {
+  background: #f5f6f8;
+  border-color: #d9dce3;
+  color: #4a5261;
+}
