@@ -33,10 +33,16 @@ Acadamic Work experience
 
 Publications
 ======
-  {% assign pubs_desc = site.publications | sort_natural: "path" | reverse %}
-  <ul>{% for post in pubs_desc %}
-    {% assign index = forloop.index%}
+  <ul>{% assign index = 1 %}{% for i in (0..999) reversed %}
+    {% assign i_str = i | append: "" %}
+    {% for post in site.publications %}
+    {% assign post_number = post.path | split: "/" | last | split: "." | first %}
+    {% if post_number != i_str %}
+    {% continue %}
+    {% endif %}
     {% include archive-single.html %}
+    {% assign index = index | plus: 1 %}
+    {% endfor %}
   {% endfor %}</ul>
   <ul>*Authors with equal contribution.</ul>
 
@@ -76,8 +82,9 @@ Service
 - [**2nd Workshop on Computer Architecture Modeling and Simulation (CAMS)**](https://sarchlab.org/cams24) — 2024  
 
 ### Journal Reviewer
-- *ACM Transactions on Architecture and Code Optimization (TACO)* — 2026  
-- *The Journal of Supercomputing* — 2025
+- *IEEE Transactions on Computers (TC)*
+- *ACM Transactions on Architecture and Code Optimization (TACO)* 
+- *The Journal of Supercomputing*
 
 <!-- Service and leadership
 ======
